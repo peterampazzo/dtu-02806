@@ -25,15 +25,13 @@ how the plots created, and why we did the choices we did.
 ├── data
 |   ├── 2017_ebsib_bcn_enquesta_benestar_subjectiu_infancia_barcelona.csv    <- Survey Data (BCN OPEN DATA)
 │   ├── zona-urban-audit.geojson                                             <- Neigbourhoods Data (BCN OPEN DATA)
-│   └── ...                   <- TBC
+│   └── ...                  
 ├── docs
 |   ├── survey-cat.pdf                 <- Original Survey (in catalan)
 |   ├── survey-eng.pdf                 <- Translated Survey (in english)
-|   ├── Notes-ideas.ipynb              <- Ideas and notes not to forget during analysis (to remove before submission)
 │   └── ...   
 ├── src
-│   ├── analysis                       <- Scripts to create exploratory and results
-│   └── data                           <- Scripts to download or generate data
+│   └── viz                           <- Scripts to generate the animated plots
 │
 └── requirements.txt                   <- The requirements file for reproducing the analysis environment
                                         e.g. generated with `pip freeze > requirements.txt`
