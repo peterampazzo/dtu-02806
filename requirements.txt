@@ -1,0 +1,2 @@
+geopandas==0.9.0
+googletrans==3.0.0
