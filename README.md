@@ -1,5 +1,5 @@
 # Project for the course 02806 Social Data Analysis and Visualization
-***
+
 
 This project is the final project for the course 02806 Social Data Analysis and Visualization on DTU.
 The topic of the project is *Visualizing child welfare in Barcelona*.
